@@ -1,0 +1,7 @@
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.csproj.AssemblyReference.cache
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.AssemblyInfoInputs.cache
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.AssemblyInfo.cs
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.csproj.CoreCompileInputs.cache
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ya_ri\Desktop\AV3_WEB_CAMADAS\Av3\obj\Debug\net6.0\Av3.MvcApplicationPartsAssemblyInfo.cache
